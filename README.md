@@ -19,8 +19,6 @@ Implementación educativa de algoritmos fundamentales de clasificación supervis
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Ejemplo de Salida](#-ejemplo-de-salida)
 - [Algoritmos Implementados](#-algoritmos-implementados)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
 
 ---
 
