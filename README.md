@@ -365,19 +365,3 @@ Curso: Minería de Datos
 Tema: Algoritmos de Clasificación Baseline (Zero-R y One-R)
 
 ---
-
-## 📚 Referencias
-
-- Holte, R. C. (1993). "Very simple classification rules perform well on most commonly used datasets". *Machine Learning*, 11(1), 63-90.
-- Witten, I. H., Frank, E., & Hall, M. A. (2011). *Data Mining: Practical Machine Learning Tools and Techniques*. Morgan Kaufmann.
-- Han, J., Kamber, M., & Pei, J. (2011). *Data Mining: Concepts and Techniques*. Morgan Kaufmann.
-
----
-
-## ⭐ Agradecimientos
-
-Si este proyecto te fue útil, considera darle una estrella ⭐ en GitHub.
-
----
-
-**¿Preguntas o sugerencias?** Abre un [issue](https://github.com/tu-usuario/cervezas-zeror-oner/issues) en GitHub.
